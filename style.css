@@ -1,0 +1,71 @@
+body{
+    font-family: OpenSans, Arial, sans-serif;
+}
+
+
+.row{
+    background-color: #dbeef6;
+
+   
+}
+span{
+    font-weight: 600;
+
+}
+.row1 img{
+    padding-left: 2%;
+}
+.row2 p{
+    font-size: 0.73em;
+}
+.card img{
+    width: 5em;
+}
+.section1{
+    font-size: x-small;
+    margin-top: 3rem;
+}
+.section1 img{
+    /* padding-left: 5rem;  */
+    padding-bottom: 1rem;
+}
+.image{
+    /* background-color: blanchedalmond; */
+    height: 3rem;
+    text-align: center;
+}
+.color{
+background-color: white;
+}
+.input-group button{
+    color: black;
+}
+.container .row{
+    background-color: white;
+}
+
+.card-text{
+    font-size: xx-small;
+}
+.card-footer{
+    font-size: x-small;
+}
+.source p{
+    font-size: xx-small;
+}
+.row3 {
+    width: 100%;
+    height:0%;
+    background-color: #271066;
+}
+.row3 p{
+    color: white;
+}
+.row3 button{
+    width: 20em;
+    text-align: center;
+}
+.footer li{
+    font-size: xx-small;
+    line-height: 2em;
+}
